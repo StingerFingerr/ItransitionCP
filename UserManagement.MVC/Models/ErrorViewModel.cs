@@ -1,4 +1,4 @@
-namespace UserManagement.MVC.Models
+namespace CP.MVC.Models
 {
     public class ErrorViewModel
     {

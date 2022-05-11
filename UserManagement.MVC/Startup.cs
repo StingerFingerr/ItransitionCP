@@ -5,10 +5,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using UserManagement.MVC.Data;
-using UserManagement.MVC.Models;
+using CP.MVC.Data;
+using CP.MVC.Models;
 
-namespace UserManagement.MVC
+namespace CP.MVC
 {
     public class Startup
     {

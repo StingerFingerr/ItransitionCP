@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace UserManagement.MVC.Models
+namespace CP.MVC.Models
 {
     public class UserViewModel
     {

@@ -7,9 +7,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
-using UserManagement.MVC.Models;
+using CP.MVC.Models;
 
-namespace UserManagement.MVC.Areas.Identity.Pages.Account.Manage
+namespace CP.MVC.Areas.Identity.Pages.Account.Manage
 {
     public class DownloadPersonalDataModel : PageModel
     {

@@ -6,9 +6,9 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.Threading.Tasks;
-using UserManagement.MVC.Models;
+using CP.MVC.Models;
 
-namespace UserManagement.MVC.Areas.Identity.Pages.Account
+namespace CP.MVC.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]
     public class LoginWith2faModel : PageModel

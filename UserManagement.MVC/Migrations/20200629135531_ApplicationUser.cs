@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 
-namespace UserManagement.MVC.Migrations
+namespace CP.MVC.Migrations
 {
     public partial class ApplicationUser : Migration
     {

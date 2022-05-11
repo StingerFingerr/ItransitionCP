@@ -6,9 +6,9 @@ using System.ComponentModel.DataAnnotations;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using UserManagement.MVC.Models;
+using CP.MVC.Models;
 
-namespace UserManagement.MVC.Areas.Identity.Pages.Account.Manage
+namespace CP.MVC.Areas.Identity.Pages.Account.Manage
 {
     public partial class IndexModel : PageModel
     {

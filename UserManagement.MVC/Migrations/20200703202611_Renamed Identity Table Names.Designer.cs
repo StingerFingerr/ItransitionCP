@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using UserManagement.MVC.Data;
+using CP.MVC.Data;
 
-namespace UserManagement.MVC.Migrations
+namespace CP.MVC.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20200703202611_Renamed Identity Table Names")]

@@ -5,10 +5,10 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Threading.Tasks;
-using UserManagement.MVC.Data;
-using UserManagement.MVC.Models;
+using CP.MVC.Data;
+using CP.MVC.Models;
 
-namespace UserManagement.MVC
+namespace CP.MVC
 {
     public class Program
     {

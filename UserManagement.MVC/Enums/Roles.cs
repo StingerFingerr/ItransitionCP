@@ -1,4 +1,4 @@
-﻿namespace UserManagement.MVC.Enums
+﻿namespace CP.MVC.Enums
 {
     public enum Roles
     {

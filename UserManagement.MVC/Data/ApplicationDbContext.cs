@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
-using UserManagement.MVC.Models;
-using UserManagement.MVC.Models.Collections;
+using CP.MVC.Models;
+using CP.MVC.Models.Collections;
 
-namespace UserManagement.MVC.Data
+namespace CP.MVC.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {

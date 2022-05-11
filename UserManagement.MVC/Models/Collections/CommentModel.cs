@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UserManagement.MVC.Models.Collections
+namespace CP.MVC.Models.Collections
 {
     public class CommentModel
     {

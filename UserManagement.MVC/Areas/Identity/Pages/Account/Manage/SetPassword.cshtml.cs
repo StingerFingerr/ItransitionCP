@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.ComponentModel.DataAnnotations;
 using System.Threading.Tasks;
-using UserManagement.MVC.Models;
+using CP.MVC.Models;
 
-namespace UserManagement.MVC.Areas.Identity.Pages.Account.Manage
+namespace CP.MVC.Areas.Identity.Pages.Account.Manage
 {
     public class SetPasswordModel : PageModel
     {

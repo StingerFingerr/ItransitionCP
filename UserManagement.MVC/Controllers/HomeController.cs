@@ -7,11 +7,11 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Threading.Tasks;
-using UserManagement.MVC.Data;
-using UserManagement.MVC.Models;
-using UserManagement.MVC.Models.Collections;
+using CP.MVC.Data;
+using CP.MVC.Models;
+using CP.MVC.Models.Collections;
 
-namespace UserManagement.MVC.Controllers
+namespace CP.MVC.Controllers
 {
     public class HomeController : Controller
     {

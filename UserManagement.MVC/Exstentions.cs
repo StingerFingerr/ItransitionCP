@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
-using UserManagement.MVC.Middleware;
+using CP.MVC.Middleware;
 
-namespace UserManagement.MVC
+namespace CP.MVC
 {
     public static class Exstentions
     {

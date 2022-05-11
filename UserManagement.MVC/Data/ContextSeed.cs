@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Identity;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using UserManagement.MVC.Models;
-using UserManagement.MVC.Models.Collections;
+using CP.MVC.Models;
+using CP.MVC.Models.Collections;
 
-namespace UserManagement.MVC.Data
+namespace CP.MVC.Data
 {
     public static class ContextSeed
     {

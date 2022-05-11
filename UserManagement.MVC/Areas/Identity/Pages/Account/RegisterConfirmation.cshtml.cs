@@ -6,9 +6,9 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using System.Text;
 using System.Threading.Tasks;
-using UserManagement.MVC.Models;
+using CP.MVC.Models;
 
-namespace UserManagement.MVC.Areas.Identity.Pages.Account
+namespace CP.MVC.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]
     public class RegisterConfirmationModel : PageModel
