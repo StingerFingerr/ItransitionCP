@@ -1,4 +1,4 @@
-﻿@using UserManagement.MVC.Models;
+﻿@using CP.MVC.Models;
 @inject SignInManager<ApplicationUser> SignInManager
 @{
     var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
